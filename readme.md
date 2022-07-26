@@ -1,8 +1,8 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 🧑‍🎓 My name is: Tanabodee Boonrak ...
+- 🎫 Student id: 63362518
+- 🎓 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
 
