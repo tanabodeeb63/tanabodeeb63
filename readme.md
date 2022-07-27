@@ -59,6 +59,4 @@
 
 ## Contact
 <p align="left">
-<a href="#">
     [Facebook](https://www.facebook.com/thanabodee.mai/)
-  </a>
