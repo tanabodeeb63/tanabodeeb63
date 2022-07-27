@@ -1,9 +1,9 @@
 ### Hi there 👋 Nice to see u.
 
 - 🧑‍🎓 My name is: Tanabodee Boonrak ...
-- 🎫 Student id: 63362518
+  - 🎫 Student id: 63362518
 - 🎓 I'm currently studying on Faculty of Engineering.
-
+- 💲 I want to be a Full Stack Developer
 ## Developer Tech
 
 ### Frameworks 
