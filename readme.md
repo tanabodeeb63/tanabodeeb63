@@ -58,5 +58,4 @@
 </p>
 
 ## Contact
-<p align="left">
-    [Facebook](https://www.facebook.com/thanabodee.mai/)
+[Facebook](https://www.facebook.com/thanabodee.mai/)
