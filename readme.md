@@ -4,6 +4,7 @@
   - 🎫 Student id: 63362518
 - 🎓 I'm currently studying on Faculty of Engineering.
 - 💲 I want to be a Full Stack Developer
+- 💻 I like the subject Computer Networks
 ## Developer Tech
 
 ### Frameworks 
@@ -58,4 +59,4 @@
 </p>
 
 ## Contact
-[Facebook](https://www.facebook.com/thanabodee.mai/)
+- 🌐 [Facebook](https://www.facebook.com/thanabodee.mai/)
