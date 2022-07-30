@@ -1,10 +1,18 @@
 ### Hi there 👋 Nice to see u.
 
-- 🧑‍🎓 My name is: Tanabodee Boonrak ...
+- 🧑‍🎓 My name is: Tanabodee Boonrak
   - 🎫 Student id: 63362518
+- 👀 you can call me mai
 - 🎓 I'm currently studying on Faculty of Engineering.
-- 💲 I want to be a Full Stack Developer
-- 💻 I like the subject Computer Networks
+
+## ❤️‍🔥Career interests in the future :
+
+- 💻 Full Stack Developer
+
+## 💼 Interested in computer engineering
+
+- website writing
+
 ## Developer Tech
 
 ### Frameworks 
